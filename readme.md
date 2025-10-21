@@ -110,9 +110,9 @@
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#techno)
+- [Techno](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system forandroid phones and tablets.
+- [IOS](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
