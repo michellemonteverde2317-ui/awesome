@@ -5,12 +5,12 @@
 	<br>
 	<br>
 	<div>
-		<sub>Check out my macOS app</sub>
+		<sub>Check out my Android app</sub>
 		<br>
 		<h2>
 			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
 			<br>
-			<sup>Elevate your Mac experience</sup>
+			<sup>Elevate your Android experience</sup>
 		</h2>
 	</div>
 	<br>
